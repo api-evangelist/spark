@@ -10,5 +10,8 @@ tags:
   - Distributed Computing
 created: '2025'
 modified: '2026-03-16'
+common:
+  - type: GitHubOrganization
+    url: https://github.com/apache
 apis: []
 common: []
