@@ -13,5 +13,6 @@ modified: '2026-03-16'
 common:
   - type: GitHubOrganization
     url: https://github.com/apache
+  - url: https://spark.apache.org/news/
+    type: Blog
 apis: []
-common: []
